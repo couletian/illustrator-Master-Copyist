@@ -1,4 +1,5 @@
 **English** | [简体中文](README.zh-CN.md)
+<img width="4267" height="4267" alt="replica-studio-icon" src="https://github.com/user-attachments/assets/ca2dad72-9339-49a4-9db8-60a00f5d9dca" />
 
 # illustrator Master-Copyist
 
